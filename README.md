@@ -33,7 +33,3 @@ Preset Effect Premiere Pro (.prfpset) adalah file preset yang dapat digunakan un
 - **Preset tidak muncul?** Pastikan Anda sudah mengikuti langkah-langkah di atas dengan benar dan memeriksa apakah preset sudah berada di folder yang benar.
 - **Premiere Pro tidak mengenali preset?** Pastikan file preset yang Anda unduh memiliki ekstensi `.prfpset` dan kompatibel dengan versi Premiere Pro Anda.
 
-## Kontak
-Jika Anda memiliki pertanyaan lebih lanjut atau mengalami kesulitan, silakan hubungi kami di [email@contoh.com].
-
-Terima kasih telah menggunakan preset kami!
