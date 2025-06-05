@@ -76,7 +76,7 @@
 	<VideoFilterComponent ObjectID="8" ClassID="d10da199-beea-4dd1-b941-ed3a78766d50" Version="8">
 		<Component Version="6">
 			<Bypass>false</Bypass>
-			<DisplayName>Paint Bucket</DisplayName>
+			<DisplayName>Ky-Stroke</DisplayName>
 			<Params Version="1">
 				<Param Index="0" ObjectRef="9"/>
 				<Param Index="1" ObjectRef="10"/>
